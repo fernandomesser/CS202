@@ -1,6 +1,3 @@
 Names:
-<<<<<<< HEAD
 Fernando
-=======
 Augusto Freire
->>>>>>> c302a600497d96f02a55ce6c902c1e0daad8ecc1
